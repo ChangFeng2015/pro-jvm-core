@@ -102,7 +102,7 @@ public final class FalseSharingDemo {
         }
 
         // 计算有填充、有缓存行对齐的测试场景下响应时间更短的情况的概率
-        System.out.println("Radio (Plain < Align) : " + expectedCount * 100D / testNum + "%");
+        System.out.println("Radio (Plain > Align) : " + expectedCount * 100D / testNum + "%");
     }
 
     public static void main(String[] args) throws Exception {
