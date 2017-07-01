@@ -4,17 +4,23 @@ Java语言已经发展了10多年，根据市场反馈，各行各业对Java语�
 
 # 作者
 
-> 33493248@qq.com 李艳鹏 1、2章			
+> 33493248@qq.com 李艳鹏 第1章
 
-> chinazhaoht@gmail.com 赵宏涛 3.2节
+> 33493248@qq.com 贾博岩 第2章
 
-> 1428665561@qq.com 梁朋举 3.1节	
+> 1428665561@qq.com 梁朋举 第3.1节
 
-> ycuzjj@163.com 张军军 3.3节
+> chinazhaoht@gmail.com 赵宏涛 第3.2节
+
+> ycuzjj@163.com 张军军 第3.3节
+
+> ycuzjj@163.com 贾博岩 第3.4节
+
+> 156418415@qq.com 杨彪 第4章
 
 # 阅稿人
 
-
+N/A
 
 # 目录
 
