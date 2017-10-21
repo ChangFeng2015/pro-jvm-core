@@ -98,7 +98,7 @@ N/A
 #### 3.1.3 Synchronized和ReentrantLock
 #### 3.1.4 Volatile和Synchronized
 
-### 3.2 高级的同步工具 赵宏涛
+### 3.2 高级的同步工具 --->  赵宏涛
 
 #### 3.2.1 AQS和Unsafe的park和unpark
 #### 3.2.2 CAS
