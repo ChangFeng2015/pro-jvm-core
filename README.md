@@ -16,8 +16,6 @@ Java语言已经发展了10多年，根据市场反馈，各行各业对Java语�
 
 > ycuzjj@163.com 张军军
 
-> jiaboyan@live.com 贾博岩
-
 > 156418415@qq.com 杨彪
 
 > 156418415@qq.com 徐凌云
